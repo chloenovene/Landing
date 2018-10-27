@@ -1,0 +1,43 @@
+h1 {
+    color:#C95D63;
+    font-size: 50px;
+    font-family: 'Quicksand', sans-serif;
+}
+
+body {
+    color: #384D48;
+    font-size: 20px;
+    font-family: 'Raleway',sans-serif;
+}
+
+h2 {
+    color:#F3C98B;
+    font-size: 30px;
+    font-family: 'Nanum Gothic', sans-serif;
+}
+
+#intro {
+    font-size: 20px;
+    color: #654C4F
+}
+
+#fin {
+    font-size: 10px;
+    text-align: center;
+}
+
+.header {
+    background-color: #F3C98B;
+    padding: 120px;                            
+    border-radius: 2px;                        
+    box-shadow: 0 10px 30px rgba(0,0,0,.1);
+    text-align: center;    
+}
+
+.widget {
+    width:300px;
+    padding:50px;
+    border-radius:2px;
+    margin:0px auto;
+    text-align:center;
+}
